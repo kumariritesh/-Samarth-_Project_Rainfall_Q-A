@@ -1,5 +1,3 @@
-# -Samarth-_Project_Rainfall_Q-A
-Rainfall and Crop Data Q&amp;A prototype using Python and data.gov.in datasets.
 # Project Samarth – Rainfall Q&A Prototype
 
 This project compares rainfall data between Madhya Pradesh and Thane, Maharashtra using official datasets from data.gov.in.  
